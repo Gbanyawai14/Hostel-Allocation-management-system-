@@ -1,5 +1,5 @@
 -- ============================================================
--- HOSTEL ALLOCATION & MANAGEMENT SYSTEM (HAMS)
+ -- HOSTEL ALLOCATION & MANAGEMENT SYSTEM (HAMS)
 -- schema.sql — Run this FIRST in MySQL Workbench
 -- ============================================================
 
