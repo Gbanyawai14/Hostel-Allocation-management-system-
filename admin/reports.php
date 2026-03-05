@@ -1,4 +1,4 @@
-<?php
+ <?php
 session_start();
 if (!isset($_SESSION['user_id']) || !in_array($_SESSION['role'],['ADMIN','WARDEN'])) {
     header('Location: ../auth/login.php'); exit;
