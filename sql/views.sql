@@ -1,6 +1,6 @@
 -- ============================================================
 -- HOSTEL ALLOCATION & MANAGEMENT SYSTEM (HAMS)
--- views.sql — Run FIFTH
+ -- views.sql — Run FIFTH
 -- ============================================================
 
 USE hams;
