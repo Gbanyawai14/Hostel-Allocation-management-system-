@@ -1,4 +1,4 @@
-<?php
+ <?php
 // assets/css/style_inline.php — Shared styles included inline
 ?>
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;700&family=IBM+Plex+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
