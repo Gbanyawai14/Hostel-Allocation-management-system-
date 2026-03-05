@@ -6,7 +6,7 @@ $db = getDB();
 
 $active   = $db->query("SELECT * FROM view_student_details ORDER BY hostel_name, room_number");
 $checkout = $db->query(
-    "SELECT S.full_name, S.email, R.room_number, H.hostel_name,
+     "SELECT S.full_name, S.email, R.room_number, H.hostel_name,
             A.check_in_date, A.check_out_date
      FROM Allocation A
      JOIN Student S ON A.student_id=S.student_id
