@@ -1,4 +1,4 @@
-<?php
+ <?php
 // assets/nav_inline.php — Shared sidebar navigation
 $role = $_SESSION['role'] ?? 'STUDENT';
 $user = $_SESSION['username'] ?? 'User';
