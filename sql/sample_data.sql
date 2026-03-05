@@ -19,7 +19,7 @@ INSERT INTO UserAccount (username, password, role) VALUES
 ('student005', MD5('student123'),  'STUDENT');
 
 -- ============================================================
--- Hostel
+ -- Hostel
 -- ============================================================
 INSERT INTO Hostel (hostel_name, location, total_rooms) VALUES
 ('Al-Hikmah Block A', 'North Campus', 0),
