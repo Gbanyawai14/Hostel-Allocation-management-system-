@@ -2,7 +2,7 @@
 -- HOSTEL ALLOCATION & MANAGEMENT SYSTEM (HAMS)
 -- procedures.sql — Run THIRD (after functions.sql)
 -- ============================================================
-
+ 
 USE hams;
 
 DELIMITER $$
