@@ -5,7 +5,7 @@ require_once '../config/db.php';
 $db  = getDB();
 $msg = '';
 
-if ($_SERVER['REQUEST_METHOD'] === 'POST' && in_array($_SESSION['role'],['ADMIN','WARDEN'])) {
+ if ($_SERVER['REQUEST_METHOD'] === 'POST' && in_array($_SESSION['role'],['ADMIN','WARDEN'])) {
     $sid    = (int)$_POST['student_id'];
     $amt    = (float)$_POST['amount'];
     $mid    = (int)$_POST['method_id'];
