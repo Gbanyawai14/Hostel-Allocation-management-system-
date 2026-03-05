@@ -1,6 +1,6 @@
 -- ============================================================
 -- HOSTEL ALLOCATION & MANAGEMENT SYSTEM (HAMS)
--- triggers.sql — Run FOURTH
+ -- triggers.sql — Run FOURTH
 -- ============================================================
 
 USE hams;
